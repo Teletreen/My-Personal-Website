@@ -72,11 +72,12 @@ hr {
 }
 
 .mountain-img{
-    width: 15%;
+    width: 28%;
 }
 
 .bottom-cloud {
     position: absolute;
+    left: 2%;
 }
 
 .skill-img {
