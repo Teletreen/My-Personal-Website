@@ -68,6 +68,11 @@ hr {
 
 .top-cloud {
     position: absolute;
+    right: 10%;
+}
+
+.mountain-img{
+    width: 15%;
 }
 
 .bottom-cloud {
