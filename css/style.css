@@ -68,16 +68,18 @@ hr {
 
 .top-cloud {
     position: absolute;
-    right: 10%;
+    right: 4%;
+    width: 30%;
 }
 
 .mountain-img{
-    width: 28%;
+    width: 60%;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 10%;
+    left: 4%;
+    width: 30%;
 }
 
 .skill-img {
@@ -100,18 +102,18 @@ hr {
 }
 
 .skill-row {
-    width: 50%;
+    width: 80%;
     margin: 100px auto 100px auto;
     text-align: left;
 }
 
 .intro {
-    width: 38%;
+    width: 80%;
     margin: auto;
 }
 
 .message {
-    width: 30%;
+    width: 80%;
     margin: 40px auto 60px;
 }
 
